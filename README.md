@@ -15,10 +15,15 @@
 ![image](https://github.com/kaviyarasanEaswaran/Customer_Churn_Prediction/assets/129485308/345ca76e-973d-4b16-9785-0f24319ec8c1)
 
 From above all combination of plots
-In general if the customer don't have partner ,not a senior citizen, no
-dependents,phone serive is yes,InternetService is fiber optic,
-No technical support, the paper less billing is yes, elctronic payment method,
-they have high chance to churn within one year contract period
+1. chances of cutomers churn not changing much with the gender, so age
+   is not an important while seeing age column alone with target.
+2. senior citizen have higher ratio , so they have high chance to churn
+3. majoriy of the unmarried customers are more likely to churn
+4. fiber optic internet cutomers are high chance to churn.
+5. month to month contract period cutomers are more likely to churn.
+6. cutomers those who are paying in elctronic check payment method more
+   likely to churn.
+7. customer who have only min 1 year contract have high chance to churn.
 
 
 ![image](https://github.com/kaviyarasanEaswaran/Customer_Churn_Prediction/assets/129485308/c4866dff-c937-4881-9c95-a5c82e6a8901)
