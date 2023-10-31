@@ -7,5 +7,9 @@
 ![image](https://github.com/kaviyarasanEaswaran/Customer_Churn_Prediction/assets/129485308/d2def188-1f12-43b3-843e-b2a419c697ee)
 # Four churn segments
 ![image](https://github.com/kaviyarasanEaswaran/Customer_Churn_Prediction/assets/129485308/d1aeae35-5ac8-47d6-a9c2-3654a4ceacf3)
+# Here front end looks like
+![image](https://github.com/kaviyarasanEaswaran/Customer_Churn_Prediction/assets/129485308/e7f243b1-5de4-40ff-b5d9-0b29cd1e9545)
+
+
 
 
