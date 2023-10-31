@@ -10,6 +10,25 @@
 # Here front end looks like
 ![image](https://github.com/kaviyarasanEaswaran/Customer_Churn_Prediction/assets/129485308/e7f243b1-5de4-40ff-b5d9-0b29cd1e9545)
 
+# Insight
+
+![image](https://github.com/kaviyarasanEaswaran/Customer_Churn_Prediction/assets/129485308/345ca76e-973d-4b16-9785-0f24319ec8c1)
+
+From above all combination of plots
+In genral if the customer don't have partner ,not a senior citizen, no
+dependents,phone serive is yes,InternetService is fiber optic,
+No technical support, the paper less billing is yes, elctronic payment method,
+they have high chance to churn within one year contract period
+
+
+![image](https://github.com/kaviyarasanEaswaran/Customer_Churn_Prediction/assets/129485308/c4866dff-c937-4881-9c95-a5c82e6a8901)
+
+
+In genral if the customer don't have partner ,not a senior citizen, no
+dependents,phone serive is yes,InternetService is fiber optic,
+No technical support, the paper less billing is yes, elctronic payment method,
+they have high chance to churn within one year contract period
+
 
 
 
