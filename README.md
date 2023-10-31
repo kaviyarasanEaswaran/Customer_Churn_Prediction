@@ -15,7 +15,7 @@
 ![image](https://github.com/kaviyarasanEaswaran/Customer_Churn_Prediction/assets/129485308/345ca76e-973d-4b16-9785-0f24319ec8c1)
 
 From above all combination of plots
-In genral if the customer don't have partner ,not a senior citizen, no
+In general if the customer don't have partner ,not a senior citizen, no
 dependents,phone serive is yes,InternetService is fiber optic,
 No technical support, the paper less billing is yes, elctronic payment method,
 they have high chance to churn within one year contract period
